@@ -1,0 +1,7 @@
+JCS_Components.xcodeproj/xcuserdata/
+JCS_Components.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+JCS_Components.xcodeproj/project.xcworkspace/xcuserdata/
