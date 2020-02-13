@@ -34,7 +34,7 @@ git commit -am ${tag}
 git tag ${tag}
 git push origin master --tags
 # 提交到私有库
-#pod repo push JCS_PodSpecs JCS_Components.podspec --sources=${gitsource} --verbose --allow-warnings --use-libraries --use-modular-headers
+pod repo push JCS_PodSpecs JCS_Components.podspec --sources=${gitsource} --verbose --allow-warnings --use-libraries --use-modular-headers
 #提交到公开库
-pod trunk push JCS_Components.podspec --verbose --allow-warnings --use-libraries
+#pod trunk push JCS_Components.podspec --verbose --allow-warnings --use-libraries
 

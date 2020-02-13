@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JCS_Components"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "JCS_Components."
 
   # This description is used to generate tags and improve search results.
