@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JCS_Components"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "JCS_Components."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     this is JCS_Components
                    DESC
 
-  s.homepage     = "https://github.com/JackCatTeam/JCS_Components"
+  s.homepage     = "https://github.com/jcsteam/JCS_Components"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/JackCatTeam/JCS_Components.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/jcsteam/JCS_Components.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
